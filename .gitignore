@@ -1,0 +1,10 @@
+data/raw/
+data/processed/
+data/metadata/
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.swp
+*.swo
