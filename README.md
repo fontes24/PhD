@@ -1,6 +1,6 @@
 # PhD
 
-Repositorio para desenvolvimento de codigo do PhD em Deep Learning aplicado a monitorizacao com dados InSAR.
+Repositorio para desenvolvimento de codigo do PhD em Deep Learning aplicado a monitorizacao de infraestruturas com dados InSAR.
 
 ## Ambiente
 - Conda: `miguelgpu`
