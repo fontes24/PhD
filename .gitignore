@@ -12,3 +12,4 @@ outputs/
 *.tmp
 *.swp
 *.swo
+.vscode/
